@@ -20,5 +20,5 @@ Atividade 2:
      não exista).
    * Caso Cliente envie mensagem do tipo: "chave1, valor1" :
      * Servidor retorna a lista de valores atualizado com o novo valor.
-   * Caso Servidor envie mensagem do tipo: "chave1" :
+   * Caso Servidor envie mensagem do tipo: "remover chave1" :
      * A chave e todos seus valores são removidos do dicionário através do próprio servidor.
